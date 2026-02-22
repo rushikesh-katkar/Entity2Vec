@@ -1,0 +1,1 @@
+Refer to the notebook songEmbeddings.ipynb for detailed embedding generation and evaluation
