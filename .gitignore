@@ -39,3 +39,4 @@ __pycache__/
 *.tmp
 
 # Optional: output directories
+*.model
